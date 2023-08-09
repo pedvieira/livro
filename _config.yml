@@ -6,8 +6,8 @@ remote_theme: pmarsceill/just-the-docs
 
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+    - { platform: github,  user_url: "https://github.com/pedvieira" }
+    - { platform: twitter, user_url: "https://twitter.com/pedrovieira_br" }
 
 #description: > # this means to ignore newlines until "baseurl:"
 #Esta é a descrição do site. Aqui é onde explico o resumo do projeto em questão.
